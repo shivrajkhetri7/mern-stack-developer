@@ -4,7 +4,7 @@ name:{
     type:String
 },
 password:{
-    type:String
+    type:Number
 }
 })
 
